@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <rect width="600" height="600" fill="#FAF7F2"/>
+  <circle cx="300" cy="300" r="220" fill="#F5EFEB" stroke="#D49B41" stroke-width="2"/>
+  <circle cx="280" cy="280" r="80" fill="#FFFFFF" stroke="#4E3629" stroke-width="3"/>
+  <circle cx="360" cy="380" r="100" fill="#FFFFFF" stroke="#4E3629" stroke-width="3"/>
+  <circle cx="250" cy="270" r="18" fill="#1F4E79"/>
+  <circle cx="245" cy="265" r="6" fill="#FFFFFF"/>
+  <circle cx="310" cy="270" r="18" fill="#1F4E79"/>
+  <circle cx="305" cy="265" r="6" fill="#FFFFFF"/>
+  <ellipse cx="440" cy="450" rx="30" ry="20" fill="#8C2D19"/>
+  <path d="M 410,450 Q 370,430 380,410" fill="none" stroke="#8C2D19" stroke-width="3"/>
+  <text x="300" y="520" font-family="'Noto Serif TC', serif" font-size="22" fill="#4E3629" text-anchor="middle" font-weight="bold">酒酒小公主 - 好奇玩耍 (示意)</text>
+</svg>

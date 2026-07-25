@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <rect width="800" height="500" fill="#541308"/>
+  <path d="M 0,400 Q 400,380 800,400 L 800,500 L 0,500 Z" fill="#2C0A05"/>
+  <circle cx="400" cy="200" r="120" fill="#D49B41" opacity="0.1"/>
+  <path d="M 400,100 L 400,0" stroke="#D49B41" stroke-width="4"/>
+  <path d="M 370,100 L 430,100 L 415,120 L 385,120 Z" fill="#D49B41"/>
+  <circle cx="400" cy="380" r="70" fill="#7A2016" stroke="#D49B41" stroke-width="3"/>
+  <path d="M 380,330 Q 400,310 395,290" fill="none" stroke="#D49B41" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 410,330 Q 430,310 425,290" fill="none" stroke="#D49B41" stroke-width="2" stroke-linecap="round"/>
+  <line x1="490" y1="360" x2="520" y2="440" stroke="#D49B41" stroke-width="4" stroke-linecap="round"/>
+  <line x1="505" y1="355" x2="535" y2="435" stroke="#D49B41" stroke-width="4" stroke-linecap="round"/>
+  <text x="400" y="470" font-family="'Noto Serif TC', serif" font-size="24" fill="#FAF7F2" text-anchor="middle" font-weight="bold" letter-spacing="4">溫馨雅致的用餐氛圍 (示意)</text>
+</svg>

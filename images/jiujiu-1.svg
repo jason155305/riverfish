@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <rect width="600" height="600" fill="#FAF7F2"/>
+  <circle cx="300" cy="300" r="220" fill="#F5EFEB" stroke="#D49B41" stroke-width="2"/>
+  <path d="M 220,180 Q 200,90 280,130" fill="#E6DED4" stroke="#4E3629" stroke-width="3"/>
+  <path d="M 380,180 Q 400,90 320,130" fill="#E6DED4" stroke="#4E3629" stroke-width="3"/>
+  <ellipse cx="300" cy="350" rx="140" ry="110" fill="#FFFFFF" stroke="#4E3629" stroke-width="3"/>
+  <circle cx="300" cy="220" r="90" fill="#FFFFFF" stroke="#4E3629" stroke-width="3"/>
+  <circle cx="265" cy="210" r="20" fill="#1F4E79"/>
+  <circle cx="260" cy="205" r="7" fill="#FFFFFF"/>
+  <circle cx="335" cy="210" r="20" fill="#1F4E79"/>
+  <circle cx="330" cy="205" r="7" fill="#FFFFFF"/>
+  <polygon points="295,245 305,245 300,252" fill="#D49B41"/>
+  <path d="M 285,265 Q 300,275 300,265 Q 300,275 315,265" fill="none" stroke="#4E3629" stroke-width="3"/>
+  <path d="M 180,220 L 120,210 M 180,235 L 110,235 M 180,250 L 120,260" stroke="#4E3629" stroke-width="2"/>
+  <path d="M 420,220 L 480,210 M 420,235 L 490,235 M 420,250 L 480,260" stroke="#4E3629" stroke-width="2"/>
+  <text x="300" y="520" font-family="'Noto Serif TC', serif" font-size="22" fill="#4E3629" text-anchor="middle" font-weight="bold">酒酒小公主 - 呆萌日常 (示意)</text>
+</svg>
